@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#f7f8fa</color>
+    <color name="colorAccent">#d31826</color>
+
+    <color name="lipstick_red">#d31826</color>
+    <color name="macaroni_yellow">#fcc02e</color>
+    <color name="tealish_green">#24aaad</color>
+    <color name="gunmetal_gray">#505763</color>
+    <color name="battleship_gray">#686f7a</color>
+    <color name="mid_blue">#247f9e</color>
+    <color name="dark_grey">#25252a</color>
+    <color name="grey_divider">#E0E0E0</color>
+</resources>
