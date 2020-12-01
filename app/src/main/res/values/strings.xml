@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MvvmSample</string>
+
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_forgot_password">Forgot your password?</string>
+    <string name="label_login">Login</string>
+    <string name="label_dont_have_account"><![CDATA[Don\'t have an account? <font color="#24aaad">Register</font>]]></string>
+
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="error_invalid_password">Invalid Password</string>
 </resources>

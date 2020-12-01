@@ -12,4 +12,6 @@
     <color name="mid_blue">#247f9e</color>
     <color name="dark_grey">#25252a</color>
     <color name="grey_divider">#E0E0E0</color>
+
+    <color name="rippleColor">#42D31826</color>
 </resources>

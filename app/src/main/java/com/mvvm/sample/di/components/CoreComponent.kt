@@ -1,4 +1,4 @@
-package com.mvvm.sample.di
+package com.mvvm.sample.di.components
 
 import android.app.Application
 import android.content.Context
@@ -7,6 +7,7 @@ import com.mvvm.sample.di.modules.DataSourceModule
 import com.mvvm.sample.di.modules.NetworkModule
 import com.mvvm.sample.di.modules.RepositoriesModule
 import com.mvvm.sample.di.modules.StorageModule
+import com.mvvm.sample.di.subcomponents.MainSubComponent
 import dagger.BindsInstance
 import dagger.Component
 import javax.inject.Singleton

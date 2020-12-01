@@ -5,8 +5,6 @@ import com.mvvm.sample.data.source.local.entities.AddressEntityDao
 import com.mvvm.sample.data.source.local.entities.CompanyEntityDao
 import com.mvvm.sample.data.source.local.entities.CompleteUserEntity
 import com.mvvm.sample.data.source.local.entities.UserEntityDao
-import com.mvvm.sample.data.source.remote.reponses.toAddressEntity
-import com.mvvm.sample.data.source.remote.reponses.toCompanyEntity
 import com.mvvm.sample.data.source.remote.reponses.toComplUserEntity
 import com.mvvm.sample.data.source.store.CloudUserStore
 import com.mvvm.sample.domain.repositories.UsersRepository

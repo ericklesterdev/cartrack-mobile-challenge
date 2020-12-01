@@ -23,6 +23,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
+    buildFeatures {
+        dataBinding = true
+        viewBinding = true
+    }
 }
 
 dependencies {
@@ -50,9 +55,13 @@ dependencies {
     testImplementation "org.mockito:mockito-core:$versions.mockito"
     testImplementation "io.mockk:mockk:$versions.mockk"
 
-    implementation "androidx.room:room-runtime:${versions.room}"
-    implementation "androidx.room:room-rxjava2:${versions.room}"
-    kapt "androidx.room:room-compiler:${versions.room}"
+    implementation "androidx.room:room-runtime:$versions.room"
+    implementation "androidx.room:room-rxjava2:$versions.room"
+    kapt "androidx.room:room-compiler:$versions.room"
+
+    implementation "com.google.android.material:material:$versions.material"
+
+    implementation "android.arch.lifecycle:extensions:$versions.lifecycle"
 
     androidTestImplementation "androidx.test.ext:junit:$versions.junitExt"
     androidTestImplementation "androidx.test.espresso:espresso-core:$versions.espresso"

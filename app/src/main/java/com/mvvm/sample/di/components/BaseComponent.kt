@@ -1,4 +1,4 @@
-package com.mvvm.sample.di
+package com.mvvm.sample.di.components
 
 import android.app.Activity
 import android.app.Service

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--    Android Mobile Typography Guidelines  -->
+    <!-- Check usage in https://material.io/design/typography/#  -->
+    <dimen name="material_text_headline_1">96sp</dimen>
+    <dimen name="material_text_headline_2">60sp</dimen>
+    <dimen name="material_text_headline_3">48sp</dimen>
+    <dimen name="material_text_headline_4">34sp</dimen>
+    <dimen name="material_text_headline_5">24sp</dimen>
+    <dimen name="material_text_headline_6">20sp</dimen>
+    <dimen name="material_text_subtitle_1">16sp</dimen>
+    <dimen name="material_text_subtitle_2">14sp</dimen>
+    <dimen name="material_text_body_1">16sp</dimen>
+    <dimen name="material_text_body_2">14sp</dimen>
+    <dimen name="material_text_button">14sp</dimen>
+    <dimen name="material_text_caption">12sp</dimen>
+    <dimen name="material_text_overline">10sp</dimen>
+
+    <!--  Button  https://material.io/components/buttons/#anatomy -->
+    <dimen name="material_button_min_height">36dp</dimen>
+    <dimen name="material_button_min_width">64dp</dimen>
+    <dimen name="material_button_padding_left">16dp</dimen>
+    <dimen name="material_button_padding_right">16dp</dimen>
+
+    <dimen name="xsmall_space">2dp</dimen>
+    <dimen name="small_space">4dp</dimen>
+    <dimen name="medium_space">6dp</dimen>
+    <dimen name="huge_space">8dp</dimen>
+    <dimen name="xhuge_space">10dp</dimen>
+    <dimen name="xxhuge_space">12dp</dimen>
+    <dimen name="xxxhuge_space">14dp</dimen>
+</resources>
